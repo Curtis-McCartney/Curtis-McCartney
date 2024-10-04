@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">👨‍🎓 2nd Year Computer Science Student at Queen's University Belfast.
+<p align="left"> 
+  👨‍🎓 Hi! I'm Curtis McCartney, a 2nd Year Computer Science Student at Queen's University Belfast.
   <br>👨‍💻 Experience in Java, SQL, HTMl, CSS, JavaScript.
   <br>📖 Currently studying JavaScript, HTML, and CSS with Modern JavaScript from the Beginning 2.0
   <br>💼 Currently looking for a placement, preferably in Software Development!</p>
