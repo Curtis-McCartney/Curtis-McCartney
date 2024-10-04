@@ -1,9 +1,9 @@
-<h1 align="left">Hey! I'm Curtis McCartney!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=28&pause=1000&color=43F70E&width=435&lines=Hello+World!;I'm+Curtis+McCartney)](https://git.io/typing-svg)
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Curtis-McCartney/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Curtis-McCartney/count.svg?"/>
 </div>
 
 ###
