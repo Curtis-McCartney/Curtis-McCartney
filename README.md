@@ -25,7 +25,7 @@
 ###
 
 <p align="left"> 
-  👨‍🎓 Hi! I'm Curtis McCartney, a 3rd Year Computer Science Student who's also into Game Dev!
+  👨‍🎓 Hi! I'm Curtis, a 3rd Year Computer Science Student who's also into Game Dev!
   <br>👨‍💻 Experience in Java, SQL, HTML, CSS, JavaScript, GDScript.
   <br>📖 Currently getting really into game development, check out my itch.io page!
   <br>💼 Currently out on a placement year!</p>
